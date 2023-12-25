@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: aqua;
+}
+
+.type-filter {
+  margin-bottom: 20px;
+}
+
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pokemon-list > div {
+  margin: 10px;
+  padding: 10px;
+  background-color: aliceblue;
+  border: 2px solid black;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.heading{
+color: red;
+}
+
+
+
